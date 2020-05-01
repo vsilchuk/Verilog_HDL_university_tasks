@@ -31,7 +31,7 @@ In my case, the simulation could be started by executing the `vsim -do sim.do` c
 [7]: http://fpga.in.ua/fpga/cad-pld/verilog-basics-laboratory-works/lr7-issledovanie-mnogofunkcionalnyx-ustrojstv.html
 [8]: https://github.com/vsilchuk/Verilog_HDL_single_cycle_MIPS_processor/
 [9]: http://fpga.in.ua/fpga/cad-pld/verilog-basics-laboratory-works/lr8-razrabotka-prostogo-processornogo-modulya-na-verilog.html
-[10]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/LW8/
-[11]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/LW8/blob/master/instr_test_pure_mips.asm
-[12]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/LW8/blob/master/instr_test_pure_mips.bin
+[10]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/tree/master/LW8
+[11]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/blob/master/LW8/instr_test_pure_mips.asm
+[12]: https://github.com/vsilchuk/Verilog_HDL_university_tasks/blob/master/LW8/instr_test_pure_mips.bin	
 [13]: https://github.com/vsilchuk/Verilog_HDL_single_cycle_MIPS_processor/blob/master/img/proc_structure_wb.png
